@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maheswari-33
+- 👋 Hi, I’m Maheswari
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python
 - 📫 Reach me on www.linkedin.com/in/maheswari-gunasekaran
